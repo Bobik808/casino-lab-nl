@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://casino-lab-nl.pages.dev/sitemap.xml
+Sitemap: https://casino-lab-nl-6jz.pages.dev/sitemap.xml
